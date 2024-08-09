@@ -1,0 +1,7 @@
+## switch
+#### Switch
+
+```
+<Switch defaultChecked />
+
+```

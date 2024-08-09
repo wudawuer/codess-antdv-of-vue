@@ -1,0 +1,6 @@
+## skeleton
+#### Skeleton
+
+```
+<Skeleton />
+```
