@@ -1,7 +1,0 @@
-## datepicker
-#### DatePicker
-
-```
-<DatePicker />
-
-```

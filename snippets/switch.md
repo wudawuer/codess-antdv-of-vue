@@ -1,7 +1,0 @@
-## switch
-#### Switch
-
-```
-<Switch defaultChecked />
-
-```
