@@ -1,6 +1,0 @@
-## antskeleton
-#### Skeleton
-
-```
-<Skeleton />
-```

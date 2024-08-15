@@ -1,6 +1,0 @@
-## antdatepicker
-#### DatePicker
-
-```
-<DatePicker />
-```

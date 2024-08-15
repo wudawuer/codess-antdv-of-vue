@@ -1,6 +1,0 @@
-## antbutton
-#### Button
-
-```
-<Button type="${1|default,primary,dashed,danger|}">$2</Button>
-```
